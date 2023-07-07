@@ -1,5 +1,5 @@
 
-#@@  It's me, hi, Bronwyn Parton
+#@@ It's me, hi, Bronwyn Parton @@ 
 
 I'm a junior software developer who loves coding, science fiction, my cats and learning. 🧬 👽 📖 🌱 🐈‍⬛ 
 
