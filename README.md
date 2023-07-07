@@ -1,8 +1,6 @@
 
 # It's me, hi, Bronwyn Parton
 
-
-## Intro
 I'm a junior software developer who loves coding, science fiction, my cats and learning. 🧬 👽 📖 🌱 🐈‍⬛ 
 
 <a href="https://www.linkedin.com/in/bronwyn-parton/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
