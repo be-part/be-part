@@ -38,5 +38,5 @@ Graduate from Lancaster University - Biology with Psychology BSc (Hons)
 PGCE from University of Chester - with QTS, in Primary Education  
 
 ### Credits
-Language Stats: https://github.com/anuraghazra/github-readme-stats 
+Language Stats: https://github.com/anuraghazra/github-readme-stats  
 Linked in badge: https://github.com/alexandresanlim/Badges4-README.md-Profile
