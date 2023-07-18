@@ -33,7 +33,7 @@ Forked from: https://github.com/Asabeneh/30-Days-Of-React
 
 ### 30 Days of React Project Portfolio 🧩
 This is a front-end app to practise and consolidate my React and JavaScript skills.  
-Project Portfolio Repo: https://github.com/be-part/react_mini_app_portfolio  
+Project Portfolio Repo: https://github.com/be-part/30daysofReact_Project_Portfolio
 Project Portfolio Hosted: https://main--30-days-of-react-portfolio.netlify.app/
 
 
