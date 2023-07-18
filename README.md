@@ -28,7 +28,7 @@ Hosted version: https://bronwyn-elizabeth.com/
 
 ## Currently 
 ### Working on #30daysofReact challenge:  🏆
-Challenge Repo: https://github.com/be-part/30-Days-Of-React/tree/main/_solutions
+Challenge Repo: https://github.com/be-part/30-Days-Of-React/tree/main/_solutions  
 Forked from: https://github.com/Asabeneh/30-Days-Of-React  
 
 ### 30 Days of React Project Portfolio 🧩
