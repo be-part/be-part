@@ -27,7 +27,7 @@ Hosted version: https://bronwyn-elizabeth.com/
 
 
 ## Currently 
-Working on #30daysofReact challenge:
+#Working on #30daysofReact challenge:  
 Project Portfolio Repo: https://github.com/be-part/react_mini_app_portfolio  
 Project Portfolio Hosted: https://main--30-days-of-react-portfolio.netlify.app/form  
 
