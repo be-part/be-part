@@ -44,4 +44,5 @@ PGCE from University of Chester - with QTS, in Primary Education
 
 ### Credits
 Language Stats: https://github.com/anuraghazra/github-readme-stats  
-Linked in badge: https://github.com/alexandresanlim/Badges4-README.md-Profile
+Linked in badge: https://github.com/alexandresanlim/Badges4-README.md-Profile  
+Profile Image: https://icons8.com/
