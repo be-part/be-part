@@ -15,7 +15,7 @@ A board games review website front end - HTML, CSS, React, Axios, JavaScript.
 Repo: https://github.com/be-part/BP-NC-Games-Frontend  
 Hosted version: https://bp-house-of-games.netlify.app/  
 
-### House of Games API 🀄
+### House of Games API 🎲  
 This is an API that allows you to search through reviews of different board games - express, PSQL, JavaScript.  
 Repo: https://github.com/be-part/BP-NC-Games-Backend  
 Hosted API: https://nc-games-bp.onrender.com/api/  
