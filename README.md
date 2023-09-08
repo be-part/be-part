@@ -20,7 +20,7 @@ This is an API that allows you to search through reviews of different board game
 Repo: https://github.com/be-part/BP-NC-Games-Backend  
 Hosted API: https://nc-games-bp.onrender.com/api/  
 
-### Portfolio Website 🍃
+### Portfolio Website 💾  
 My portfolio website - HTML, CSS.  
 Repo: https://github.com/be-part/Portfolio-Website  
 Hosted version: https://bronwyn-elizabeth.com/  
