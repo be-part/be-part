@@ -30,15 +30,18 @@ Repo: https://github.com/be-part/Portfolio-Website
 Hosted version: https://bronwyn-elizabeth.com/  
 
 
-## Other Projects 
+
+## Other Work  
+
+### 30 Days of React Project Portfolio 🧩  
+This is a front-end app to practise and consolidate my React and JavaScript skills as part of the 30 Days of React Challenge.  
+Project Portfolio Repo: https://github.com/be-part/30DaysofReactProject_Portfolio  
+Project Portfolio Hosted: https://main--30-days-of-react-portfolio.netlify.app/  
+
 ### #30daysofReact challenge:  🏆  
 Challenge Repo: https://github.com/be-part/30-Days-Of-React/tree/main/_solutions  
 Forked from: https://github.com/Asabeneh/30-Days-Of-React  
 
-### 30 Days of React Project Portfolio 🧩
-This is a front-end app to practise and consolidate my React and JavaScript skills as part of the 30 Days of React Challenge.  
-Project Portfolio Repo: https://github.com/be-part/30DaysofReactProject_Portfolio  
-Project Portfolio Hosted: https://main--30-days-of-react-portfolio.netlify.app/
 
 
 ## About Me
