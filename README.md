@@ -10,6 +10,10 @@ I'm a junior software developer who loves coding, science fiction, my cats and l
 
 ## Projects
 
+### Curious Companions 🐆  
+A front-end project that displays information about dog and cat breeds using The Cat API - HTML, SCSS, React, Axios, Javascript.  
+Repo: https://github.com/be-part/Curious_Companions  
+
 ### House of Games 🎲
 A board games review website front end - HTML, CSS, React, Axios, JavaScript.  
 Repo: https://github.com/be-part/BP-NC-Games-Frontend  
@@ -26,8 +30,8 @@ Repo: https://github.com/be-part/Portfolio-Website
 Hosted version: https://bronwyn-elizabeth.com/  
 
 
-## Currently 
-### Working on #30daysofReact challenge:  🏆
+## Other Projects 
+### #30daysofReact challenge:  🏆  
 Challenge Repo: https://github.com/be-part/30-Days-Of-React/tree/main/_solutions  
 Forked from: https://github.com/Asabeneh/30-Days-Of-React  
 
