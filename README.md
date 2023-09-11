@@ -15,12 +15,12 @@ A front-end project that displays information about dog and cat breeds using The
 Repo: https://github.com/be-part/Curious_Companions  
 
 ### House of Games 🎲
-A front-end board games review website front end - HTML, CSS, React, Axios, JavaScript.  
+A front-end board games review website - HTML, CSS, React, Axios, JavaScript.  
 Repo: https://github.com/be-part/BP-NC-Games-Frontend  
 Hosted version: https://bp-house-of-games.netlify.app/  
 
 ### House of Games API 🎲  
-This is an API that allows you to search through reviews of different board games - express, PSQL, JavaScript.  
+An API that allows you to search through reviews of different board games - express, PSQL, JavaScript.  
 Repo: https://github.com/be-part/BP-NC-Games-Backend  
 Hosted API: https://nc-games-bp.onrender.com/api/  
 
