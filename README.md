@@ -13,6 +13,7 @@ I'm a junior software developer who loves coding, science fiction, my cats and l
 ### Curious Companions 🐆  
 A front-end project that displays information about dog and cat breeds using The Cat API - HTML, SCSS, React, Axios, Javascript.  
 Repo: https://github.com/be-part/Curious_Companions  
+Hosted version: https://curious-companions.netlify.app/  
 
 ### House of Games 🎲
 A front-end board games review website - HTML, CSS, React, Axios, JavaScript.  
