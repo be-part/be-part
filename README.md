@@ -10,6 +10,10 @@ I'm a junior software developer who loves coding, science fiction, my cats and l
 
 ## Projects
 
+### Calculator App ➗  
+A Windows Forms App that performs the functions of a basic and Scientific calculator - .NET, C#.  
+Repo: https://github.com/be-part/CalculatorApp  
+
 ### Curious Companions 🐆  
 A front-end project that displays information about dog and cat breeds using The Cat API - HTML, SCSS, React, Axios, Javascript.  
 Repo: https://github.com/be-part/Curious_Companions  
