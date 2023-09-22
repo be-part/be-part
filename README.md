@@ -48,7 +48,7 @@ Challenge Repo: https://github.com/be-part/30-Days-Of-React/tree/main/_solutions
 Forked from: https://github.com/Asabeneh/30-Days-Of-React  
   
 ## GitHub Stats  
-![be-part's GitHub stats](https://github-readme-stats.vercel.app/api?username=be-part&hide_rank=true&theme=one_dark)   
+![be-part's GitHub stats](https://github-readme-stats.vercel.app/api?username=be-part&hide_rank=true&theme=onedark)   
   
 ## About Me
 Graduate from Northcoders software development bootcamp - 13 week intense course to develop full stack software developer skills.  
