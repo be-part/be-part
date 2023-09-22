@@ -52,7 +52,6 @@ Forked from: https://github.com/Asabeneh/30-Days-Of-React
 ## About Me
 Graduate from Northcoders software development bootcamp - 13 week intense course to develop full stack software developer skills.  
 Graduate from Lancaster University - Biology with Psychology BSc (Hons)  
-PGCE from University of Chester - with QTS, in Primary Education  
 
 ### Credits
 Language Stats: https://github.com/anuraghazra/github-readme-stats  
