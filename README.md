@@ -47,7 +47,8 @@ Project Portfolio Hosted: https://main--30-days-of-react-portfolio.netlify.app/
 Challenge Repo: https://github.com/be-part/30-Days-Of-React/tree/main/_solutions  
 Forked from: https://github.com/Asabeneh/30-Days-Of-React  
   
-  
+## GitHub Stats  
+![be-part's GitHub stats](https://github-readme-stats.vercel.app/api?username=be-part)   
   
 ## About Me
 Graduate from Northcoders software development bootcamp - 13 week intense course to develop full stack software developer skills.  
